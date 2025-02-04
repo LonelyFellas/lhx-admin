@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b3078"],{2741:function(n,e,a){"use strict";a.r(e);var t=function(){var n=this,e=n._self._c;return e("div",[n._v("我是pageTow页面")])},u=[],o={name:"PageTow",data(){return{}}},r=o,c=a("2877"),l=Object(c["a"])(r,t,u,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0b3078.67f876be.js.map
